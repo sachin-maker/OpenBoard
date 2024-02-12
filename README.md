@@ -16,4 +16,10 @@ It is a drawing web app and has a live sharing feature,
   <li>Changing brush in different size.</li>
 </ul>
   <h2>TECH STACK USED:-</h2>
+  <ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Socket.io</li>  
+</ul>
   
